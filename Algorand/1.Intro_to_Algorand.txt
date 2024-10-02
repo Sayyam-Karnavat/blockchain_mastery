@@ -1,0 +1,3 @@
+Algorand is designed to solve the "blockchain trilemma" by ensuring decentralization, scalability, and security.
+
+Pure Proof of Stake (PPoS): Unlike traditional Proof of Stake or Proof of Work, Algorand's PPoS selects validators randomly and in a decentralized manner. In Algorand, any holder of Algos (Algorand’s native cryptocurrency) can participate in the consensus process, making it highly decentralized.
