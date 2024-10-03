@@ -1,0 +1,24 @@
+Types of Smart Contracts:
+
+
+1. Stateless Smart Contracts:
+
+Definition: These contracts do not hold any state or data. They operate based on the information contained in the transaction itself.
+Use Cases: Stateless contracts are often used for simple conditions or rules in a transaction, such as validating conditions for asset transfers.
+
+
+
+2. Stateful Smart Contracts:
+
+Definition: These contracts can hold state data and can maintain variables across different transactions.
+Use Cases: Stateful contracts are suitable for applications requiring persistent storage, such as decentralized finance (DeFi) applications or voting systems.
+
+3. Atomic Transfers:
+
+Definition: A group of transactions that either all succeed or none at all. This ensures that the blockchain remains in a consistent state.
+Use Cases: Atomic transfers are useful in multi-party agreements, token swaps, or auctions where conditions must be met before proceeding.
+
+
+
+
+### Algorand Smart Contracts (ASC1) :- ASC1: Algorand Smart Contracts (ASC1) are designed to execute automatically when predefined conditions are met.
