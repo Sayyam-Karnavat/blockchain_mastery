@@ -1,0 +1,23 @@
+1. Blocks
+A block is a container that holds data, typically in the form of transactions. Each block contains:
+
+Data: Transaction details or any other relevant information.
+Hash: A cryptographic signature unique to the block's content.
+Previous Hash: The hash of the previous block, ensuring the blocks are connected.
+2. Transactions
+A transaction represents the transfer of data or assets between participants in the blockchain. It can be simple (e.g., transferring cryptocurrency) or complex (e.g., a smart contract execution).
+
+3. Hashing
+Each block's data is hashed using a cryptographic hash function (like SHA-256), generating a unique output. Hashing ensures data integrity; any change to the data will result in a different hash.
+
+4. Chain of Blocks (Blockchain)
+The blockchain is essentially a linked list of blocks where each block is connected via its hash and the previous block's hash. This chain creates an immutable ledger of transactions.
+
+5. Consensus Mechanism
+Consensus ensures that all participants agree on the contents of the blockchain. Different blockchains use various consensus mechanisms like Proof of Work (PoW), Proof of Stake (PoS), or Algorand's Pure Proof of Stake (PPoS).
+
+6. Decentralization
+Blockchains operate in a decentralized network where no single entity has control. Nodes (participants) maintain the ledger, making the system more secure and transparent.
+
+7. Smart Contracts
+Smart contracts are self-executing programs stored on the blockchain that run when specific conditions are met. In the context of Algorand, these can be written in languages like PyTeal.

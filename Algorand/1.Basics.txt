@@ -1,0 +1,24 @@
+1. Introduction to Blockchain
+
+
+Definition:
+Blockchain is a decentralized and distributed digital ledger that records transactions across a network of computers. It ensures data security, transparency, and immutability by utilizing cryptographic techniques.
+
+Key Properties:
+
+Decentralization: No single entity controls the blockchain; instead, control is distributed across a peer-to-peer network.
+Immutability: Once data is added to the blockchain, it cannot be altered or deleted.
+Transparency: All transactions on the blockchain are visible to every participant in the network.
+How Blockchain Works:
+
+Blocks: Each block contains a list of transactions. A new block is added to the blockchain after a set of transactions is validated.
+Consensus Mechanisms: These protocols (e.g., Proof of Work, Proof of Stake) ensure that participants in the network agree on the current state of the blockchain.
+Cryptography: Transactions are secured using cryptographic techniques like hashing and digital signatures.
+
+
+
+Common Blockchain Platforms:
+
+Bitcoin: The first blockchain that introduced cryptocurrency (BTC).
+Ethereum: Popular for smart contract capabilities.
+Algorand: Known for scalability, security, and its Pure Proof of Stake (PPoS) consensus mechanism.
